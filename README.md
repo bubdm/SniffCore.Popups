@@ -4,7 +4,8 @@ SniffCore.Popups
 SniffCore.Popups is a collection of useful custom controls for popups any anything like these.
 
 ## How To
-* [Wiki](http://wiki.sniffcore.com/index.php?title=SniffCore.Popups)
+* [Documentation](http://wiki.sniffcore.com)
+* [Website](http://sniffcore.com)
 
 ## License
 
