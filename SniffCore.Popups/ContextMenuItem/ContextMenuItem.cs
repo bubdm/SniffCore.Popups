@@ -12,7 +12,7 @@ using System.Windows.Media;
 // ReSharper disable MemberCanBePrivate.Global
 // ReSharper disable once CheckNamespace
 
-namespace SniffCore.Controls
+namespace SniffCore.Popups
 {
     /// <summary>
     ///     Brings an easy to use MenuItem to be used in the ContextMenu no matter if its in an own VisualTree or not.
