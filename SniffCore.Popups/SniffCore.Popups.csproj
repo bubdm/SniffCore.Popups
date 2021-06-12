@@ -4,10 +4,29 @@
     <OutputType>Library</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWPF>true</UseWPF>
+    <Authors>David Wendland</Authors>
+    <Description>SniffCore.Popups is a collection of useful custom controls for popups any anything like these.</Description>
+    <Copyright>Copyright (c) 2021 David Wendland</Copyright>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageIcon>Icon.png</PackageIcon>
+    <PackageIconUrl />
+    <RepositoryUrl>https://github.com/devicenator/SniffCore.Popups</RepositoryUrl>
+    <PackageProjectUrl>http://www.sniffcore.com</PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DocumentationFile>bin\Debug\netcoreapp3.1\SniffCore.Popups.xml</DocumentationFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\Icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
