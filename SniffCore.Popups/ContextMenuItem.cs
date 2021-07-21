@@ -10,7 +10,6 @@ using System.Windows.Data;
 using System.Windows.Media;
 
 // ReSharper disable MemberCanBePrivate.Global
-// ReSharper disable once CheckNamespace
 
 namespace SniffCore.Popups
 {
