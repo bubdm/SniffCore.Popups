@@ -12,6 +12,7 @@
     <PackageIconUrl />
     <RepositoryUrl>https://github.com/devicenator/SniffCore.Popups</RepositoryUrl>
     <PackageProjectUrl>http://www.sniffcore.com</PackageProjectUrl>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
