@@ -10,7 +10,7 @@ Callout/Tooltip thingy with an arrow pointer
 
 ## [1.1.0] - 2021-07-21
 ### Added
-PopupHandler for a better auto close of popups when it comes to click outside of the non client area
+* PopupHandler for a better auto close of popups when it comes to click outside of the non client area
 
 ## [1.0.0] - 2021-06-13
 ### Added
