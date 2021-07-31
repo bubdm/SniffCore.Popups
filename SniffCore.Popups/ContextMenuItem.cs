@@ -9,8 +9,6 @@ using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Media;
 
-// ReSharper disable MemberCanBePrivate.Global
-
 namespace SniffCore.Popups
 {
     /// <summary>
